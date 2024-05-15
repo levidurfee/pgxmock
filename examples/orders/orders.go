@@ -6,7 +6,7 @@ import (
 	"log"
 
 	pgconn "github.com/jackc/pgconn"
-	"github.com/pashagolub/pgxstruct"
+	"github.com/levidurfee/pgxstruct"
 	pgx "github.com/yugabyte/pgx/v4"
 )
 
